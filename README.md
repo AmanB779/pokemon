@@ -1,8 +1,16 @@
-# React + Vite
+# Pokipedia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Pokipedia**, a React application that allows users to search for Pokémon and view their details! This app utilizes the PokeAPI to fetch and display information about various Pokémon.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Search for Pokémon**: Enter the name of a Pokémon to retrieve its details.
+- **Browse Pokémon**: View a list of 50 Pokémon along with their images.
+- **User-Friendly Interface**: Clean and responsive design for an enhanced experience.
+
+## Technologies Used
+
+- **React**: For building the user interface.
+- **Axios**: For making API requests.
+- **JavaScript ES6**: For modern JavaScript features.
+- **CSS**: For styling the application.
